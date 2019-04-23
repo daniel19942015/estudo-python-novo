@@ -1,4 +1,4 @@
-<div style="width: 100%; heigth: 30px; border: 1px solid red;">aaa</div>
+
 
 <h1>Estudando e executando python</h1>
 
