@@ -7,5 +7,5 @@
 <h2>Este repositório é voltado para o aprendizado de python.</h2>
 
 
-<p>Através deste repositorio estudo python para aprimorar meus conhecimentos. Além disso, aprimoro os conhecimentos em git e github</p>
+<p>Através deste repositorio, estudo python para aprimorar meus conhecimentos. Além disso, aprimoro os conhecimentos em git e github</p>
 
