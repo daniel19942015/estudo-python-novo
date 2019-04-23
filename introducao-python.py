@@ -1,10 +1,9 @@
 
-nomes = []
+def soma(*valores):
+    valor = 0
+    for i in range(len(valores)):
+        valor += valores[i]
+    print(valor)
 
-for i in range(10):
-    nomePessoa = str(input("Digite seu nome"))
-    nomes.append(nomePessoa)
 
-for j in len(nomes):
-    print("O nome da pessoa é: ".format(nomes[j]))
-    
+soma(10,19,40, 60, 70, 10)
